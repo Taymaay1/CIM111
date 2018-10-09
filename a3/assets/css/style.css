@@ -1,0 +1,70 @@
+body {
+    background-color: powderblue;
+  }
+
+p {font-family: 'Indie Flower', cursive;
+  color: red;
+}
+
+a{
+  text-decoration: underline;
+  color: red;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+@font-face {
+  font-family: 'belleroselight';
+  src: url('bellerose-webfont.woff2') format('woff2'), url('bellerose-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+  font-family: 'belleroselight';
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.Taylor { font-weight: bloder;}
+
+.bluebox{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    color: white;
+
+}
+
+.redbox{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    color: white;
+
+#Taylor-Mason {
+  width: 30%;
+}
+
+#contact-info {
+  width: 30%;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+#purplebox{
+  height 100px;
+  width: 100px;
+  color: white;
+  background-color: purple;
+}
+
+.title {
+      color: blue;
+  }
